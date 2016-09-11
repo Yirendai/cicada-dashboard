@@ -1,0 +1,7 @@
+.idea/
+*.hot-update.*
+
+node_modules/
+*-compiled*
+bundle.js
+publish/
